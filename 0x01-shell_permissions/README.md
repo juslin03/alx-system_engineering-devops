@@ -40,6 +40,10 @@
 [task13](./13-change_group): Write a script that changes the group owner to `school` for the file `hello`<br>
 	- The file `hello` will be in the working directory<br><br>
 
-[task14](./change_owner_and_group): Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.<br><br>
+[task14](./100-change_owner_and_group): Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.<br><br>
+
+[task15](./101-symbolic_link_permissions): Write a script that changes the owner and the group owner of `_hello` to `vincent` and `staff` respectively.<br>
+	- The file `_hello` is in the working directory<br>
+	- The file `_hello` is a symbolic link<br><br>
 
 

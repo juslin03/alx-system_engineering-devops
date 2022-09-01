@@ -29,4 +29,10 @@
 	- `-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello`<br>
 	- The file hello will be in the working directory<br>
 	- You are not allowed to use commas for this script<br><br>
-[task10]
+[task10](./10-mirror_permissions): Write a script that sets the mode of the file hello the same as olleh’s mode.<br>
+	- The file hello will be in the working directory<br>
+	- The file olleh will be in the working directory<br><br>
+
+[task11](./11-directories_permissions): Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.<br><br>
+
+

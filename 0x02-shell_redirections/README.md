@@ -4,3 +4,6 @@
 [Task3](./3-twofiles): Display the content of `/etc/passwd` and `/etc/hosts`<br><br>
 [Task4](./4-lastlines): Display the last 10 lines of `/etc/passwd`<br><br>
 [Task5](./5-firstlines): Display the first 10 lines of `/etc/passwd`<br><br>
+[Task6](): Write a script that displays the third line of the file `iacta`.<br>
+	- The file `iacta` will be in the working directory<br>
+	- You’re not allowed to use `sed`<br><br>

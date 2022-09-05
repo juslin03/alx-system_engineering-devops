@@ -12,4 +12,7 @@
 [Task9](./duplicate_last_line): Write a script that duplicates the last line of the file `iacta`<br>
 	- The file `iacta` will be in the working directory<br><br>
 [Task10](./10-no_more_js): Write a script that deletes all the regular files (not the directories) with a `.js` extension that are present in the current directory and all its subfolders.<br><br>
-
+[Task11](./11-directories): Write a script that counts the number of directories and sub-directories in the current directory.<br>
+	- The current and parent directories should not be taken into account<br>
+	- Hidden directories should be counted<br><br>
+[Task12]

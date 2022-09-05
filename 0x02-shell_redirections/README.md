@@ -15,4 +15,8 @@
 [Task11](./11-directories): Write a script that counts the number of directories and sub-directories in the current directory.<br>
 	- The current and parent directories should not be taken into account<br>
 	- Hidden directories should be counted<br><br>
-[Task12]
+[Task12](./12-newest_files): Create a script that displays the 10 newest files in the current directory.<br>
+	- Requirements:<br>
+	- One file per line<br>
+	- Sorted from the newest to the oldest<br><br>
+

@@ -23,3 +23,5 @@
 	- Input format: One line, one word<br>
 	- Output format: One line, one word<br>
 	- Words should be sorted<br><br>
+[Task14](./14-findthatword): Display lines containing the pattern “root” from the file `/etc/passwd`<br><br>
+[Task15](./15-countthatword): Display the number of lines that contain the pattern “bin” in the file `/etc/passwd`<br><br> 

@@ -26,4 +26,6 @@
 [Task14](./14-findthatword): Display lines containing the pattern “root” from the file `/etc/passwd`<br><br>
 [Task15](./15-countthatword): Display the number of lines that contain the pattern “bin” in the file `/etc/passwd`<br><br>
 [Task16](./16-whatsnext): Display lines containing the pattern “root” and 3 lines after them in the file `/etc/passwd`.<br><br>
-[Task17](./17-hidethisword): Display all the lines in the file `/etc/passwd` that do not contain the pattern “bin”.
+[Task17](./17-hidethisword): Display all the lines in the file `/etc/passwd` that do not contain the pattern “bin”.<br><br>
+[Task18](./letteronly): Display all lines of the file `/etc/ssh/sshd_config` starting with a letter.<br>
+	- include capital letters as well<br><br>

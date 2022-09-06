@@ -34,3 +34,9 @@
 [Task21](./21-reverse): Write a script that reverse its input.<br><br>
 [Task22](./22-users_and_homes): Write a script that displays all users and their home directories, sorted by users.<br>
 	- Based on the the /etc/passwd file<br><br>
+[Task23](./100-empty_casks): Write a command that finds all empty files and directories in the current directory and all sub-directories.<br>
+	- Only the names of the files and directories should be displayed (not the entire path)<br>
+	- Hidden files should be listed<br>
+	- One file name per line<br>
+	- The listing should end with a new line<br>
+	- You are not allowed to use `basename`, `grep`, `egrep`, `fgrep` or `rgrep`<br><br>

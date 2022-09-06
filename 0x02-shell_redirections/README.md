@@ -31,3 +31,6 @@
 	- include capital letters as well<br><br>
 [Task19](./19-AZ): Replace all characters `A` and `c` from input to `Z` and `e` respectively.<br><br>
 [Task20](./20-hiago): Create a script that removes all letters `c` and `C` from input.<br><br>
+[Task21](./21-reverse): Write a script that reverse its input.<br><br>
+[Task22](./22-users_and_homes): Write a script that displays all users and their home directories, sorted by users.<br>
+	- Based on the the /etc/passwd file<br><br>
